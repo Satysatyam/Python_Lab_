@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90cfdb4b-5115-4b1a-9035-ebc30de79b3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1AddingtwoNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3calender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComparingList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Date&amp;Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LambdaFuntion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lab_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileRead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tupple.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NQRlxnNCEy8KzjNJXhoUZZGOjH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/satyam/Desktop/codingNinjas/Python_Lab_"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90cfdb4b-5115-4b1a-9035-ebc30de79b3e" name="Changes" comment="" />
+      <created>1679594479745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679594479745</updated>
+    </task>
+    <servers />
+  </component>
+</project>
